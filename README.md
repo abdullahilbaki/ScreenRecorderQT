@@ -11,7 +11,7 @@ Project for the **PDS** course at the **"Politecnico di Torino"**
 
 **Screen Recorder QT** is a software based on two components. 
 
-- The first is the **ScreenRecorder library**, a multiplatform **C++** library which allows to record the screen and optionally mux the audio recorded by the microphone with the captured video.
+- The first is the **ScreenRecorder library**, a multiplatform **C++** library which allow to record the screen and optionally mux the audio recorded by the microphone with the captured video.
 - The second is the **QT application**, a **C++ native** frontend based on **QT libraries**, used to interact with the **ScreenRecorder library**.
 
 ### Screen Recorder Library
